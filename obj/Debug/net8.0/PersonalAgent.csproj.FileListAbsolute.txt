@@ -1,0 +1,14 @@
+C:\dev\PersonalAgent\bin\Debug\net8.0\PersonalAgent.exe
+C:\dev\PersonalAgent\bin\Debug\net8.0\PersonalAgent.deps.json
+C:\dev\PersonalAgent\bin\Debug\net8.0\PersonalAgent.runtimeconfig.json
+C:\dev\PersonalAgent\bin\Debug\net8.0\PersonalAgent.dll
+C:\dev\PersonalAgent\bin\Debug\net8.0\PersonalAgent.pdb
+C:\dev\PersonalAgent\obj\Debug\net8.0\PersonalAgent.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\PersonalAgent\obj\Debug\net8.0\PersonalAgent.AssemblyInfoInputs.cache
+C:\dev\PersonalAgent\obj\Debug\net8.0\PersonalAgent.AssemblyInfo.cs
+C:\dev\PersonalAgent\obj\Debug\net8.0\PersonalAgent.csproj.CoreCompileInputs.cache
+C:\dev\PersonalAgent\obj\Debug\net8.0\PersonalAgent.dll
+C:\dev\PersonalAgent\obj\Debug\net8.0\refint\PersonalAgent.dll
+C:\dev\PersonalAgent\obj\Debug\net8.0\PersonalAgent.pdb
+C:\dev\PersonalAgent\obj\Debug\net8.0\PersonalAgent.genruntimeconfig.cache
+C:\dev\PersonalAgent\obj\Debug\net8.0\ref\PersonalAgent.dll
